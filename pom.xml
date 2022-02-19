@@ -11,6 +11,7 @@
     <modules>
         <module>SingletonPattern</module>
         <module>FactoryMethodPattern</module>
+        <module>AbstractFactoryPattern</module>
     </modules>
 
     <properties>
