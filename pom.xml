@@ -14,6 +14,7 @@
         <module>AbstractFactoryPattern</module>
         <module>BuilderPattern</module>
         <module>AdapterPattern</module>
+        <module>DecoratorPattern</module>
     </modules>
 
     <properties>
